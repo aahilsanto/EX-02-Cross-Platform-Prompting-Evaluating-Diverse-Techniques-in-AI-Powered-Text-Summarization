@@ -110,7 +110,7 @@ The responses were compared based on:
 ## ChatGPT + Zero-Shot Prompting
 
 ### Prompt Used
-> “Summarize the 500-word technical article on "The Basics of Blockchain Technology" into a concise and easy-to-understand summary for undergraduate students. Highlight the key concepts, working principles, advantages, and applications of blockchain technology.”
+“Summarize the 500-word technical article on "The Basics of Blockchain Technology" into a concise and easy-to-understand summary for undergraduate students. Highlight the key concepts, working principles, advantages, and applications of blockchain technology.”
 
 ### Summary Generated
 Blockchain is a decentralized digital ledger that records transactions securely across multiple computers without requiring a central authority. It uses interconnected blocks, cryptographic hashing, and consensus mechanisms such as Proof of Work and Proof of Stake to verify and store data. Its key advantages include transparency, security, data integrity, and traceability. Blockchain is widely used in cryptocurrency, healthcare, supply chain management, digital identity, and smart contracts. However, scalability, energy consumption, and privacy remain major challenges.
@@ -127,7 +127,7 @@ Blockchain is a decentralized digital ledger that records transactions securely 
 ## Gemini + Few-Shot Prompting
 
 ### Prompt Used
-> “You are an expert educational content summarizer.
+“You are an expert educational content summarizer.
 
 Follow these examples:
 
@@ -158,7 +158,8 @@ Summary: Blockchain is a decentralized, secure digital ledger that records trans
 ## Claude AI + Chain-of-Thought Prompting
 
 ### Prompt Used
-> “Analyze the 500-word technical article on "The Basics of Blockchain Technology" and prepare a structured summary for undergraduate students.
+
+“Analyze the 500-word technical article on "The Basics of Blockchain Technology" and prepare a structured summary for undergraduate students.
 
 Organize the analysis into the following stages:
 1. Identify the main topic and objective.
@@ -184,7 +185,7 @@ Blockchain is a distributed ledger technology that stores and verifies informati
 ## Copilot + Role-Based Prompting
 
 ### Prompt Used
-> “Act as an experienced technical writer and blockchain educator. Summarize the 500-word technical article on "The Basics of Blockchain Technology" for undergraduate students. Explain complex technical concepts in simple language while maintaining technical accuracy. Focus on the fundamental concepts, architecture, working mechanism, and real-world applications.”
+“Act as an experienced technical writer and blockchain educator. Summarize the 500-word technical article on "The Basics of Blockchain Technology" for undergraduate students. Explain complex technical concepts in simple language while maintaining technical accuracy. Focus on the fundamental concepts, architecture, working mechanism, and real-world applications.”
 
 ### Summary Generated
 Blockchain is a decentralized digital ledger that records and shares information across multiple computers without relying on a central authority. It consists of linked blocks containing transaction data, timestamps, and cryptographic hashes, which help ensure security and prevent tampering. Transactions are verified by network participants and added to the blockchain through consensus mechanisms such as Proof of Work (PoW) and Proof of Stake (PoS). Blockchain offers transparency, data integrity, and traceability. Its applications include cryptocurrencies, supply chain tracking, healthcare record management, and smart contracts. Despite challenges like scalability and energy consumption, blockchain remains a key technology for secure digital systems.
